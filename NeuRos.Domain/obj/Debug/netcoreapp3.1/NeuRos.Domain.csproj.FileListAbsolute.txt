@@ -1,0 +1,10 @@
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\bin\Debug\netcoreapp3.1\NeuRos.Domain.deps.json
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\bin\Debug\netcoreapp3.1\NeuRos.Domain.dll
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\obj\Debug\netcoreapp3.1\NeuRos.Domain.csprojAssemblyReference.cache
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\obj\Debug\netcoreapp3.1\NeuRos.Domain.AssemblyInfoInputs.cache
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\obj\Debug\netcoreapp3.1\NeuRos.Domain.AssemblyInfo.cs
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\bin\Debug\netcoreapp3.1\NeuRos.Domain.pdb
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\obj\Debug\netcoreapp3.1\NeuRos.Domain.dll
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\obj\Debug\netcoreapp3.1\NeuRos.Domain.pdb
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\bin\Debug\netcoreapp3.1\NeuRos.Domain.runtimeconfig.json
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Domain\bin\Debug\netcoreapp3.1\NeuRos.Domain.runtimeconfig.dev.json
