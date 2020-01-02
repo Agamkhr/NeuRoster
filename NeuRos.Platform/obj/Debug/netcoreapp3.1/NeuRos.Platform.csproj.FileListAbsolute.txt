@@ -1,0 +1,8 @@
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\bin\Debug\netcoreapp3.1\NeuRos.Platform.deps.json
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\bin\Debug\netcoreapp3.1\NeuRos.Platform.dll
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\obj\Debug\netcoreapp3.1\NeuRos.Platform.csprojAssemblyReference.cache
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\obj\Debug\netcoreapp3.1\NeuRos.Platform.AssemblyInfoInputs.cache
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\obj\Debug\netcoreapp3.1\NeuRos.Platform.AssemblyInfo.cs
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\bin\Debug\netcoreapp3.1\NeuRos.Platform.pdb
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\obj\Debug\netcoreapp3.1\NeuRos.Platform.dll
+C:\Users\Agam.Khera\source\repos\NeuRos\NeuRos.Platform\obj\Debug\netcoreapp3.1\NeuRos.Platform.pdb
